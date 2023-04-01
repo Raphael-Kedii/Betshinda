@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452314249507",
+    "project_id": "betshinda-528ec",
+    "storage_bucket": "betshinda-528ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452314249507:android:882e5ba79c260769cdb496",
+        "android_client_info": {
+          "package_name": "com.boldcomp.betshinda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452314249507-p28mtpdrskoqqlnqct7m22n8bv9sgonl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs35tO2CM06PvrKCRi_OAZu7bVeX6ezn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452314249507-p28mtpdrskoqqlnqct7m22n8bv9sgonl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Betshinda</string>
+    <string name="home">Home</string>
+    <string name="top_tips">Top Tips</string>
+    <string name="favourite">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Jackpot" />
+    <string name="jackpot">Jackpot</string>
+</resources>
